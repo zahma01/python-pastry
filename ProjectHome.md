@@ -1,0 +1,1 @@
+python-pastry is pure python implementation of Distributed Hash Table PASTRY overlay and routing network. Check http://en.wikipedia.org/wiki/Pastry_(DHT) for more info.
